@@ -4,18 +4,19 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>mod</groupId>
-    <artifactId>urmom</artifactId>
-    <version>1.0</version>
+    <groupId>Mod</groupId>
+    <artifactId>stuff</artifactId>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Urmom</name>
+    <name>Moderation_Essentials</name>
 
-    <description>A moderation plugin</description>
+    <description>A moderation plugin.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+    <url>empathyyt.github.io</url>
 
     <build>
         <plugins>
@@ -40,7 +41,7 @@
                         </goals>
                         <configuration>
                             <createDependencyReducedPom>false</createDependencyReducedPom>
-                            <outputFile>C:\Users\lolki\Desktop\productions\mod plugin\outpuyt\mod.jar</outputFile>
+                            <outputFile>C:\Users\lolki\Desktop\productions\mod plugin new\outpuyt\modpub.jar</outputFile>
                         </configuration>
                     </execution>
                 </executions>
